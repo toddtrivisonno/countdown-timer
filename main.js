@@ -5,7 +5,7 @@ var c = setInterval(countdown, 1000);
 function countdown() {
    console.log("tick");
    var now = new Date().getTime();
-   futureTime = new Date(2019, 11, 6, 17, 0, 0);
+   futureTime = new Date(2019, 11, 6, 16, 0, 0);
    // get the difference of now and futureTime
    var diff = futureTime.getTime() - now;
    // display the difference in html
