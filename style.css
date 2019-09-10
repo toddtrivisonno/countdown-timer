@@ -1,0 +1,12 @@
+#hrs, #mins, #secs {
+   width: 6em;
+}
+
+#timer {
+   font-size: 2em;
+   margin: 2em;
+   padding: 1em;
+   border: 5px solid gray;
+   border-radius: 5px;
+   width: 6em;
+}
